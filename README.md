@@ -82,4 +82,4 @@ Below I present the architecture of the model.
 
 Learning took very little , I didn't have to do a lot of changes and tests because the networks quickly jumped to around 100% accuracy. 
 
-![]/for_readme/(Aspose.Words.780064af-da0e-4c25-988c-5701e6dfe043.016.png)
+![](/for_readme/Aspose.Words.780064af-da0e-4c25-988c-5701e6dfe043.016.png)
